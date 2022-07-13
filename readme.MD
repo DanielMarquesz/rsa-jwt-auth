@@ -1,4 +1,4 @@
-# RSA key pair validation JWT
+# RSA key pair validation with JWT
 
 A quick test and example of using the RSA algorithm for validation of a JWT token =).
 
