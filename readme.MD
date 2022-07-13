@@ -4,7 +4,7 @@ A quick test and example of using the RSA algorithm for validation of a JWT toke
 
 The main objective of this validation is to ensure that the JWT token was not modified when received by the server.
 
-![alt text](image url "image Title")
+![alt text](https://github.com/DanielMarquesz/rsa-jwt-auth/blob/main/general-flux.png "General flux")
 
 The flux above show the path of a JWT token in a request the main reason of using the key pair encryption is that in case of the user or a malicious person have access of the token and try to modify, then the server will detect that change by using the public key, making the requests a little more secures. =)
 
